@@ -1,0 +1,9 @@
+pyrogram>=2.0
+tgcrypto>=1.2
+google-genai
+motor>=3.3
+requests>=2.30
+aiohttp>=3.8
+ffmpeg-python
+pymongo>=4.0
+python-dotenv

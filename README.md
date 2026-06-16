@@ -124,7 +124,7 @@ API_ID=123456
 API_HASH=your_api_hash
 BOT_TOKENS=bot_token1,bot_token2
 MONGO_URL=mongodb+srv://your_mongo_url
-MAX_UPLOAD_MB=99
+MAX_UPLOAD_MB=1000
 DOWNLOADS_DIR=./downloads
 
 
